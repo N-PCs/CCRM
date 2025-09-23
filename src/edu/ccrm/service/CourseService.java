@@ -10,7 +10,6 @@ import java.util.Optional;
 import java.util.function.Predicate;
 import java.util.stream.Collectors;
 
-// Make sure Searchable interface is imported or defined in the correct package
 public class CourseService implements Searchable<Course> {
     private List<Course> courses;
     

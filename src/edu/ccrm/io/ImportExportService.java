@@ -3,7 +3,6 @@ package ccrm.io;
 import ccrm.domain.Student;
 import ccrm.domain.Course;
 import ccrm.domain.Semester;
-import ccrm.domain.Grade;
 import ccrm.service.StudentService;
 import ccrm.service.CourseService;
 
