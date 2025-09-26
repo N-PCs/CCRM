@@ -83,6 +83,7 @@ The application provides a menu-driven interface. Follow the prompts to:
 4. Generate transcripts
 5. Import/export data
 6. Create backups
+7. Helps admin to have data of each and every registered student.
 
 ## Enabling Assertions
 
