@@ -6,6 +6,7 @@ Joins students and teachers across the campus and helps them stay aware of every
 ## Features
 
 - Student Management (add, update, deactivate, search)
+  
 - Course Management (add, update, deactivate, search by various criteria)
 - Enrollment Management with credit limit validation
 - Grade Recording and GPA Calculation
