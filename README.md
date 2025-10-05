@@ -67,6 +67,7 @@ Joins students and teachers across the campus and helps them stay aware of every
 3. Create a new Java project
 4. Configure build path to use the installed JDK
 5. Create packages and classes as per the project structure
+6. Your project is ready to be run and executed!
 
 ## How to Run
 
